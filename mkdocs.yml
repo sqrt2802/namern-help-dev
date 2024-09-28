@@ -6,7 +6,7 @@ nav:
     - 2 测号技术: 'chp2.md'
     - 3 交流平台与提问的艺术: 'chp3.md'
   - 配套资源:
-    - 超强单相关内容: 'extra-cqd.md'
+    - 超评分相关内容: 'extra-cqd.md'
     - 资源文件下载: 'extra-resources.md'
 theme:
   name: readthedocs
