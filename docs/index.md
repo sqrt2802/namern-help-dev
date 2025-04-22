@@ -1,6 +1,6 @@
 # 首页
 
-名字竞技场教程（群讨论版）**\[mkdocs mainline\]**
+名字竞技场基础教程（群讨论版）**\[mkdocs mainline\]**
 
 部署在 [namerena-help.pages.dev](https://namerena-help.pages.dev) 的教程是无人维护的过时版本，如有内容冲突请以本站为准。
 

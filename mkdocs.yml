@@ -1,13 +1,12 @@
-site_name: 名字竞技场教程
+site_name: 名字竞技场基础教程
 nav:
   - 首页: 'index.md'
   - 教程:
     - 1 名竞本身与玩法: 'chp1.md'
     - 2 测号技术: 'chp2.md'
     - 3 交流平台与提问的艺术: 'chp3.md'
-  - 配套资源:
-    - 超评分相关内容: 'extra-cqd.md'
-    - 资源文件下载: 'extra-resources.md'
+  - 资源文件下载: 'extra-resources.md'
+  - 进阶教程: 'extra-advanced.md'
 theme:
   name: readthedocs
   highlightjs: False
