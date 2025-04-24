@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/5981b20f-7a08-4485-b2d7-67bf66f5a4a4)# Chapter 2 一些大工具
-
 假如你选择了跳过 Chapter 1，那么请严格遵守本篇教程这些工具使用时的推荐数值以及用法，即使你不明白为什么。如果你没跳过 Chapter 1，但是仍然不知道为什么，那也请遵守对这些工具使用时的推荐数值。或许你在看到 Chapter 3 的时候会明白的。
 
 ## 2.1 pbb 测号器
