@@ -6,6 +6,8 @@
 
 [pbb 测号器](files/pbb.zip)
 
+[Tools(常用工具集)](files/tools.zip)
+
 ------
 
 以下大文件由于技术原因无法提供就地下载，需转至 github 源，对网络连通性有一定的要求。
