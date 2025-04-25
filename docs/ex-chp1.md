@@ -216,11 +216,11 @@ struct Name
 | 技能 |    火球术     |     冰冻术     |   雷击术   |   地裂术   | 吸血攻击  |   投毒    |    连击    |  会心一击   |    瘟疫    |  生命之轮   |
 | :--: | :-----------: | :------------: | :--------: | :--------: | :-------: | :-------: | :--------: | :---------: | :--------: | :---------: |
 | 名称 |    SklFire    |     SklIce     | SklThunder |  SklQuake  | SklAbsorb | SklPoison |  SklRapid  | SklCritical |  sklHalf   | SklExchange |
-| 技能 |    狂暴术     |      魅惑      |   加速术   |   减速术   |   诅咒    | 治愈魔法  |   苏生术   |    净化     |    铁壁    |    蓄力     |
+| **技能** |    **狂暴术**     |      **魅惑**      |   **加速术**   |   **减速术**   |   **诅咒**    | **治愈魔法**  |   **苏生术**   |    **净化**     |    **铁壁**    |    **蓄力**     |
 | 名称 |  SklBerserk   |    SklCharm    |  SklHaste  |  SklSlow   | SklCurse  |  SklHeal  | SklRevive  | SklDisperse |  SklIron   |  SklCharge  |
-| 技能 |     聚气      |      潜行      |    血祭    |    分身    |   幻术    |   防御    |    守护    |  伤害反弹   |   护身符   |    护盾     |
+| **技能** |     **聚气**      |      **潜行**      |    **血祭**    |    **分身**    |   **幻术**    |   **防御**    |    **守护**    |  **伤害反弹**   |   **护身符**   |    **护盾**     |
 | 名称 | SklAccumulate | SklAssassinate | SklSummon  |  SklClone  | SklShadow | SklDefend | SklProtect | SklReflect  | SklReraise |  SklShield  |
-| 技能 |     反击      |      吞噬      |  召唤亡灵  |  垂死抗争  |   隐匿    |           |            |             |            |             |
+| **技能** |     **反击**      |      **吞噬**      |  **召唤亡灵**  |  **垂死抗争**  |   **隐匿**    |           |            |             |            |             |
 | 名称 |  SklCounter   |    SklMerge    | SklZombie  | SklUpgrade |  SklHide  |           |            |             |            |             |
 
 有一些工具可以方便地输出一个号的 diy 格式从而进行方便地修改，具体可以见 1.7。
