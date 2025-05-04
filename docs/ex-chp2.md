@@ -585,4 +585,17 @@ input 1 for normal score
 input 2 for renhai score
 Notice:input 0 can only recognize fc and wc. You need to check renhai type by yourself.
 ```
+这个评分的意思是计算两个号加成后的属性，然后计算对应丝评分之和，比如丝辅助评和丝背刺评之和。这个和 Data_Structure 的评分是一致的。<br>
 这个的作用是，根据你已有的二人组，测试各方面的评分，方便确定阈值。
+
+## 2.5 更多小工具
+
+**Q. 为什么要新开一节？**
+因为这些东西没有放在 Tools 文件夹里。  
+
+### 2.5.1 涵虚 HtmlTools
+
+感谢玩家【涵虚/ReturnVoid】对此工具的贡献，这个工具由他编写。
+
+主要就是把各种丝评做成了 Html 的版本，UI 更加亲民。
+
