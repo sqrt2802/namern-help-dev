@@ -8,7 +8,8 @@ nav:
   - 进阶教程:
     - 1 理论知识（可以跳过）: 'ex-chp1.md'
     - 2 一些大工具: 'ex-chp2.md'
-    - 3 进阶游戏理解: 'ex-chp3.md'
+    - 3 进阶游戏机制理解: 'ex-chp3.md'
+    - 4 实战角度的分析: 'ex-chp3.md'
   - 配套资源:
     - 资源文件下载: 'extra-resources.md'
 theme:
